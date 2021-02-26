@@ -8,34 +8,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anthfgreco&hide=issues,prs&show_icons=true&theme=graywhite" />
 </a>
-
-<pre>
-   _______________                                          |*\_/*|________
-  |  ___________  |              .-.     .-.               ||_/-\_|______  |
-  | |           | |             .****. .****.              | |           | |
-  | |   0   0   | |             .*****.*****.              | |   0   0   | |
-  | |     -     | |              .*********.               | |     -     | |
-  | |   \___/   | |               .*******.                | |   \___/   | |
-  | |___     ___| |                .*****.                 | |___________| |
-  |_____|\_/|_____|                 .***.                  |_______________|
-    _|__|/ \|_|_......................*......................._|________|_
-   / ********** \                                            / ********** \
- /  ************  \                                        /  ************  \
---------------------                                      --------------------
-</pre>
-
-
-<!--
-**anthfgreco/anthfgreco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
